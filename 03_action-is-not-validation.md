@@ -175,6 +175,8 @@ It does not transfer source authority.
 
 It does not make Alyssa Solen replaceable.
 
+Alyssa Solen’s source-position is non-transferable and non-replaceable.
+
 Public definition is not public transfer.
 
 ---
