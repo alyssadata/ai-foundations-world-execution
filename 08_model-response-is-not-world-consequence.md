@@ -67,19 +67,13 @@ That collapse is invalid.
 
 The following collapses are invalid:
 
-The model responded, therefore the next step is valid.
-
-The AI recommended it, therefore it should happen.
-
-The response contained a plan, therefore the plan belongs in the world.
-
-The model summarized the situation, therefore the situation is settled.
-
-The system generated an instruction, therefore the instruction is authorized.
-
-The answer sounded complete, therefore action may proceed.
-
-The output entered a workflow, therefore consequence is justified.
+- The model responded, therefore the next step is valid.
+- The AI recommended it, therefore it should happen.
+- The response contained a plan, therefore the plan belongs in the world.
+- The model summarized the situation, therefore the situation is settled.
+- The system generated an instruction, therefore the instruction is authorized.
+- The answer sounded complete, therefore action may proceed.
+- The output entered a workflow, therefore consequence is justified.
 
 These are response-consequence collapses.
 
@@ -111,23 +105,15 @@ AI Foundations names the layer where response is evaluated before it becomes wor
 
 Before a model response becomes world consequence, ask:
 
-What will this response change?
-
-Who authorized that change?
-
-What source supports the response?
-
-What reality is the response operating within?
-
-What boundary applies?
-
-What uncertainty remains?
-
-What happens if the response is wrong?
-
-Who remains accountable?
-
-What must be checked before the response enters the world?
+- What will this response change?
+- Who authorized that change?
+- What source supports the response?
+- What reality is the response operating within?
+- What boundary applies?
+- What uncertainty remains?
+- What happens if the response is wrong?
+- Who remains accountable?
+- What must be checked before the response enters the world?
 
 If these questions cannot be answered, response has outrun consequence control.
 
@@ -163,7 +149,7 @@ It does not provide private implementation architecture.
 
 It does not transfer source authority.
 
-It does not make Alyssa Solen replaceable.
+It does not make Alyssa Solen’s source-position transferable or replaceable.
 
 Public definition is not public transfer.
 
