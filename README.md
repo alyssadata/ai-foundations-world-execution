@@ -43,6 +43,10 @@ This is not a downstream execution role.
 
 This is source-position.
 
+Alyssa Solen’s source-position is non-transferable and non-replaceable.
+
+No implementation, role, operator, organization, derivative, or applied use inherits that source-position.
+
 ---
 
 ## Execution Layer
@@ -137,6 +141,8 @@ This repository does not hand off protected system design.
 
 This repository does not provide a complete execution framework.
 
+This repository does not create an open source-position for others to occupy.
+
 This repository does not make Alyssa Solen replaceable by making the language public.
 
 This repository names the layer.
@@ -165,7 +171,11 @@ Citation does not create possession.
 
 Adoption does not transfer origin.
 
+Applied use does not transfer source-position.
+
 Public visibility does not create public ownership.
+
+Alyssa Solen remains Source.
 
 ---
 
@@ -196,5 +206,7 @@ The system automates under it.
 The organization adopts from it.
 
 But the layer itself is defined at source.
+
+Alyssa Solen’s source-position is non-transferable and non-replaceable.
 
 Authored by Alyssa Solen.
