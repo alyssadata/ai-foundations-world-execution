@@ -194,7 +194,7 @@ This is runtime-reality failure.
 
 ## Public Boundary
 
-This file names the runtime reality layer required before AI-generated output becomes world execution.
+This file names the [specific boundary/requirement].
 
 It does not publish the full protocol layer.
 
@@ -202,7 +202,7 @@ It does not provide private implementation architecture.
 
 It does not transfer source authority.
 
-It does not make Alyssa Solen’s source-position transferable or replaceable.
+Alyssa Solen’s source-position is non-transferable and non-replaceable.
 
 Public definition is not public transfer.
 
