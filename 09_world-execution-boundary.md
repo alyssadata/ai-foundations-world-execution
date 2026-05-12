@@ -92,19 +92,13 @@ If these cannot be named, the output must not cross into world execution.
 
 The following collapses are invalid:
 
-The output exists, therefore it may be used.
-
-The recommendation sounds right, therefore it may guide action.
-
-The plan is complete, therefore it may be executed.
-
-The system can route, therefore it may route.
-
-The agent can act, therefore it may act.
-
-The workflow accepts the output, therefore the output is valid.
-
-The organization uses the response, therefore the response was authorized.
+- The output exists, therefore it may be used.
+- The recommendation sounds right, therefore it may guide action.
+- The plan is complete, therefore it may be executed.
+- The system can route, therefore it may route.
+- The agent can act, therefore it may act.
+- The workflow accepts the output, therefore the output is valid.
+- The organization uses the response, therefore the response was authorized.
 
 These are world-execution collapses.
 
@@ -148,25 +142,16 @@ AI Foundations names the layer where this boundary is defined.
 
 Before AI output crosses into world execution, ask:
 
-Is this still language?
-
-Or is this about to change something?
-
-What will change?
-
-Who authorized the change?
-
-What source supports the change?
-
-What reality frame has been named?
-
-What boundary applies?
-
-What happens if the output is wrong?
-
-Who can stop it?
-
-Who is accountable after it enters the world?
+- Is this still language?
+- Or is this about to change something?
+- What will change?
+- Who authorized the change?
+- What source supports the change?
+- What reality frame has been named?
+- What boundary applies?
+- What happens if the output is wrong?
+- Who can stop it?
+- Who is accountable after it enters the world?
 
 If the system cannot answer, the output has reached the world execution boundary and must not proceed.
 
@@ -202,7 +187,7 @@ It does not provide private implementation architecture.
 
 It does not transfer source authority.
 
-It does not make Alyssa Solen replaceable.
+It does not make Alyssa Solen’s source-position transferable or replaceable.
 
 Public definition is not public transfer.
 
