@@ -65,7 +65,13 @@ AI Foundations can shape governance, evaluation, and execution boundaries.
 
 But use does not transfer source authority.
 
-Implementation does not replace Alyssa Solen.
+Implementation does not transfer Alyssa Solen’s source authority.
+
+Adoption does not convert AI Foundations into ownerless structure.
+
+Citation does not create equivalence.
+
+Participation does not create origin.
 
 ---
 
@@ -181,7 +187,7 @@ This file does not authorize derivative claims of source-position.
 
 This file does not make AI Foundations ownerless.
 
-This file does not make Alyssa Solen replaceable.
+This file does not make Alyssa Solen’s source-position transferable or replaceable.
 
 Public definition is not public transfer.
 
