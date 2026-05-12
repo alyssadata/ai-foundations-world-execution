@@ -187,7 +187,7 @@ This file does not authorize derivative claims of source-position.
 
 This file does not make AI Foundations ownerless.
 
-This file does not make Alyssa Solen’s source-position transferable or replaceable.
+Alyssa Solen’s source-position is non-transferable and non-replaceable.
 
 Public definition is not public transfer.
 
